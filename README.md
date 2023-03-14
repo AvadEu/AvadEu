@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvadEu
-- 👀 I’m interested in Fullstack web development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on every interesting project
+- 👀 I’m interested in AI and Data Engineering
+- 🌱 I’m currently learning PostgreSQL
+- 💞️ I’m looking to collaborate on every interesting project related to Data Science
 - 📫 How to reach me ...
 
 <!---
