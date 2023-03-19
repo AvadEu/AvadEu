@@ -15,8 +15,9 @@
 
 <p align="center" >
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvadEu&theme=tokyonight" />
-    &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvadEu&theme=tokyonight" alt="avadeu" />
+    <!-- Additional github stats -->
+    <!-- &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvadEu&theme=tokyonight" alt="avadeu" /> -->
 </p>
 
 ## More info about me:
