@@ -20,12 +20,33 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvadEu&theme=tokyonight" alt="avadeu" /> -->
 </p>
 
-## More info about me:
+<h2>More info about me:</h2>
 
 <details>
     <summary>🛠️ Skill base</summary>
 
+<br>
 
-## Languages
+<h3>Languages:</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+</p>
+
+<h3>Databases:</h3>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
+</p>
+
+</details>
+<br>
+<details>
+    <summary>📂 Projects</summary>
 
 </details>
