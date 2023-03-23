@@ -24,7 +24,18 @@
 
 <details>
     <summary>🧑‍💻 Short BIO</summary>
+    <br>
+    <p>Hi there! 👋</p>
+    <p>My name is Wiktor and I'm a passionate teenage software engineer with a strong interest in data science. <br>My skillset includes high proficiency in python including OOP, testing, formatting and optimalization, SQL databases and tools like Git, Docker or Postman.</p>
 
+<p>When I'm not coding, you can find me: <br>
+🚴‍♂️ Playing sports, <br>
+📚 Reading books, <br>
+📷 Capturing moments through photography, or <br>
+🍿 Enjoying old fashioned movies. <br>
+</p>
+
+<p>I'm always seeking opportunities to develop my skills and contribute to interesting, meaningful projects. <br>Let's connect and explore new opportunities together! ⚡️⚡️</p>
 </details>
 
 <details>
